@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C# Programing, HDSE at Aptech**
 
-- 👨‍💻 All of my projects are available at [https://abaanaliportfolio.000webhostapp.com/](https://abaanaliportfolio.000webhostapp.com/)
+- 👨‍💻 All of my projects are available at [https://linktr.ee/aban016])
 
 - 💬 Ask me about **Website development**
 
