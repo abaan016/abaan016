@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aban Ali</h1>
 <h3 align="center">A passionate Website developer from Pakistan</h3>
 
-- 🌱 I’m currently learning **C# Programing, HDSE at Aptech**
+- 🌱 I’m currently learning **Asp.Net MVC, HDSE at Aptech**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/aban016])
 
