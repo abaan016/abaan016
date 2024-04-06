@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aban Ali</h1>
 <h3 align="center">A passionate frontend & php developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abaan016&label=Profile%20views&color=0e75b6&style=flat" alt="abaan016" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abaan016&label=Profile%20views&color=0e75b6&style=flat" alt="aban016" /> </p>
 
-- 🌱 I’m currently learning **asp.net mvc**
+- 🌱 I’m currently learning **ASP.Net MVC**
 
-- 👨‍💻 All of my projects are available at [https://github.com/abaan016](https://github.com/abaan016)
+- 👨‍💻 All of my projects are available at [https://github.com/aban016](https://github.com/aban016)
 
 - 💬 Ask me about **php & laravel**
 
