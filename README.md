@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abaan016&label=Profile%20views&color=0e75b6&style=flat" alt="aban016" /> </p>
 
-- 🌱 I’m currently learning **ASP.Net MVC**
+- 🌱 I’m currently learning **Dart Programming**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aban016](https://github.com/aban016)
 
